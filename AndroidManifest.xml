@@ -22,6 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.rising.activity.DisplayMetricsDpiActivity" >
+        </activity>
+        <activity android:name="com.rising.activity.RoundViewActivity" >
+        </activity>
+        <activity android:name="com.rising.activity.RunnableAndCallableActivity" />
+        <activity android:name="com.rising.activity.CountDownLatchAndCyclicBarrierActivity" />
     </application>
 
 </manifest>
